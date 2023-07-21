@@ -1,0 +1,422 @@
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.exe.config
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.exe
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.pdb
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\netstandard.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.AppContext.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Specialized.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Console.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Data.Common.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Compression.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Pipes.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Expressions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Parallel.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Queryable.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Http.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.NameResolution.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Ping.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Requests.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Security.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Sockets.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebSockets.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ObjectModel.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.Reader.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.Writer.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Handles.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Claims.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Principal.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.SecureString.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encoding.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Thread.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Timer.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XDocument.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XPath.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.Design.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Npgsql.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Buffers.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Memory.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Json.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ValueTuple.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.pdb
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\Npgsql.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Buffers.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Memory.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Json.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ValueTuple.xml
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.exe.config
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.InitialMigration.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.SeedRolesAndUsers.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.TimeTableNullableTimes.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.PatientAllergiesNotRequired.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.RemovedRecipeAndUpdatedReservation.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.ReservationFileSizeAndNameColumns.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.ReservationRemovedFileSize.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.DataSeeder.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.AdminForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.AddEditUserForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.AdvancedReportsControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.BasicReportsControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.EmergencyDoctorControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.PavilionsControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.ServicesControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.UsersControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.TimetablesControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.frmSplashScreen.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.LoginForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Properties.Resources.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.OperatorForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddEditPatientForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddQuickReservation.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddReservationForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.PatientsControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.ReservationsControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.TimetablesControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.StaffForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.FolderForm.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationDiagnose.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationShow.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.TimetableControl.resources
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.GenerateResource.cache
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.CopyComplete
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.exe
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.pdb
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\vadim\Downloads\c-sharp-hospital-crm-master\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.exe.config
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.exe
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EPatient.pdb
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\netstandard.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.AppContext.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Concurrent.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.NonGeneric.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Specialized.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Console.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Data.Common.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Debug.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Process.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Tools.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Drawing.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Dynamic.Runtime.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.Calendars.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Globalization.Extensions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Compression.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.Pipes.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Expressions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Parallel.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Linq.Queryable.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Http.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.NameResolution.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.NetworkInformation.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Ping.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Requests.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Security.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.Sockets.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Net.WebSockets.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ObjectModel.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.Extensions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Reflection.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.Reader.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.ResourceManager.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Resources.Writer.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Extensions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Handles.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.InteropServices.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Numerics.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Claims.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.Principal.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Security.SecureString.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encoding.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.RegularExpressions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Overlapped.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Thread.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.ThreadPool.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Timer.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XDocument.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XmlDocument.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XPath.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.Design.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\MetroFramework.Fonts.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Npgsql.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Buffers.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Immutable.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Memory.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Numerics.Vectors.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encodings.Web.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Json.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ValueTuple.dll
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.pdb
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.pdb
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.WinForms.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.pdb
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\LiveCharts.Wpf.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\Npgsql.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Buffers.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Collections.Immutable.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Memory.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Numerics.Vectors.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Encodings.Web.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Text.Json.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\bin\Debug\System.ValueTuple.xml
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.exe.config
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.InitialMigration.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.SeedRolesAndUsers.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.TimeTableNullableTimes.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.PatientAllergiesNotRequired.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.RemovedRecipeAndUpdatedReservation.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.ReservationFileSizeAndNameColumns.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.ReservationRemovedFileSize.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Migrations.DataSeeder.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.AdminForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.AddEditUserForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.AdvancedReportsControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.BasicReportsControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.EmergencyDoctorControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.PavilionsControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.ServicesControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.UsersControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Admin.TimetablesControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.frmSplashScreen.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.LoginForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Properties.Resources.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.OperatorForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddEditPatientForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddQuickReservation.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.AddReservationForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.PatientsControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.ReservationsControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Operator.TimetablesControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.StaffForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.FolderForm.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationDiagnose.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationShow.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.ReservationControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.Views.Staff.TimetableControl.resources
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.GenerateResource.cache
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.exe
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.pdb
+D:\Универ\Разделы дипломов\Сидоркин\c-sharp-hospital-crm-master\EPatient\obj\Debug\EPatient.csprojAssemblyReference.cache
